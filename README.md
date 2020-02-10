@@ -18,3 +18,9 @@
 *  Пример матрицы корреляций
 *  Временной ряд на примере датасета цен на авокадо
 *  Подсчет корреляции для двух временных рядов
+
+### Материалы:
+
+*  [Презентация 1](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/presentation1.pdf) - лекционный материал (презентация)
+*  [Лекция 1](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_1.ipynb) - лекционный материал (код)
+*  [Домашнее задание 1](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_1.ipynb) - домашнее задание
