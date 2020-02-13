@@ -24,3 +24,29 @@
 *  [Презентация 1](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/presentation1.pdf) - лекционный материал (презентация)
 *  [Лекция 1](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_1.ipynb) - лекционный материал (код)
 *  [Домашнее задание 1](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_1.ipynb) - домашнее задание
+
+
+### Лекция 2
+
+*  Корреляционный анализ данных (продолжение)
+*  Линейная регрессия
+*  Функция потерь - сумма квадратичных ошибок
+*  Матрицы ковариаций и корреляций
+*  Правило трех сигм
+*  Центральная предельная теорема
+*  Виды распределений: дискретные и непрерывные распределения
+*  Дискретное равномерное распределение
+*  Логнормальное распределение
+*  Экспоненциальное распределение
+*  Геометрическое распределение
+*  Распределение Бернулли
+*  Биноминальное распределение
+*  распределение Стьюдента
+
+
+### Материалы:
+
+*  [Презентация 2](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/presentation2.pdf) - лекционный материал (презентация)
+*  [Лекция 2](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_2.ipynb) - лекционный материал (код)
+*  [Домашнее задание 2](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_2.ipynb) - домашнее задание
+
