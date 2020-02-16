@@ -50,3 +50,33 @@
 *  [Лекция 2](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_2.ipynb) - лекционный материал (код)
 *  [Домашнее задание 2](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_2.ipynb) - домашнее задание
 
+
+### Лекция 3
+
+*  Датасет людей с болезнями сердца
+*  Доверительный интервал
+*  Квантили, квартили
+*  Тесты на нормальность
+    *  Тест Шапиро-Вилка
+    *  Тест д'Агостино на K ^ 2
+    *  Тест Андерсона-Дарлинга
+*  Корреляционные тесты
+    *  Пирсона
+    *  Спирмена
+    *  Кендалла
+*  Тесты на проверку стационарность временного ряда
+    *  Augmented Dickey-Fuller Unit Root Test
+    *  Kwiatkowski-Phillips-Schmidt-Shin
+*  AB - тестирование
+  *  Проверка гипотезы t-критерия Стьюдента
+  *  Одновыборочный t-критерий
+  *  Двухвыборочный t-критерий для независимых выборок
+  *  Множественный тест (ANOVA)
+
+
+### Материалы:
+
+*  [Презентация 3](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/presentation3.pdf) - лекционный материал (презентация)
+*  [Лекция 3](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_3.ipynb) - лекционный материал (код)
+*  [Домашнее задание 3](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_3.ipynb) - домашнее задание
+
