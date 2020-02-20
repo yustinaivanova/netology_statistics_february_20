@@ -80,3 +80,25 @@
 *  [Лекция 3](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_3.ipynb) - лекционный материал (код)
 *  [Домашнее задание 3](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_3.ipynb) - домашнее задание
 
+### Лекция 4
+
+*  Задача классификации
+*  Поиск причины дефекта в металле
+*  Тесты на согласие: поиск распределения
+*  Проблема мультиколлинеарности
+*  Проблема несбалансированности классов - как бороться?
+*  Пример решения классификационной проблемы - RandomForest
+*  Метрики классификации (precision, recall)
+*  Принцип минимальных компонент, PCA
+*  Кросс-валидация
+*  ROC-кривая
+*  Регрессия
+*  Предсказание цены на нефть за определенный период
+
+
+
+### Материалы:
+
+*  [Презентация 4](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/presentation4.pdf) - лекционный материал (презентация)
+*  [Лекция 4](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_4.ipynb) - лекционный материал (код)
+*  [Домашнее задание 4](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_4.ipynb) - домашнее задание
