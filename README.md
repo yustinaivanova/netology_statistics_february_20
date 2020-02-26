@@ -102,3 +102,22 @@
 *  [Презентация 4](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/presentation4.pdf) - лекционный материал (презентация)
 *  [Лекция 4](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_4.ipynb) - лекционный материал (код)
 *  [Домашнее задание 4](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_4.ipynb) - домашнее задание
+
+### Лекция 5
+
+*  ROC-кривая
+*  Баесовский метод решения классификационной проблемы
+*  Задача: по заданным показателям определить болезнь сердца у пациента
+*  Визуализация взаимосвязей между переменными (атрибутами) таблицы
+*  С использованием t-test статистики проверим взаимосвязи между несколькими переменными
+*  Тестирование гипотезы о том, что женщины болеют сердечной болезнью чаще, чем мужчины
+*  Тестирование гипотезы о том, что люди, которые курят, болеют чаще сердечной болезнью
+*  Определение СПАМА в тексте
+*  Мешок слов (Bag-Of-Words представление текста)
+*  Определение тональности текста (есть ли в тексте высказывание о ненависти и расизме или нет)
+
+### Материалы:
+
+*  [Презентация 5](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/presentation5.pdf) - лекционный материал (презентация)
+*  [Лекция 5](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/lecture_5.ipynb) - лекционный материал (код)
+*  [Домашнее задание 5](https://github.com/yustinaivanova/netology_statistics_february_20/blob/master/dz_5.ipynb) - домашнее задание
